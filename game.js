@@ -11,6 +11,7 @@ class intro extends Phaser.Scene {
     this.ball = null;
     this.shot = 0;
     this.track = 0;
+    
   }
 
   preload() {
